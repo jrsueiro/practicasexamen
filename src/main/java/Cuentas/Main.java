@@ -4,7 +4,7 @@ package Cuentas;
 import Cuentas.CCuenta;
 
 public class Main {
-
+/**djaldkjaldjañldjañdlja*/
     public static void main(String[] args, 
             float cantidad) {
         
@@ -12,6 +12,7 @@ public class Main {
         operativa_cuenta(cantidad);
     }
 
+    /**jdalkdjladknalkdandlkandakdnakdnad*/
     
     
     
@@ -28,6 +29,7 @@ public class Main {
         } catch (Exception e) {
             System.out.print("Fallo al retirar");
         }
+        /**ldkjañldajdñlkaj*/
         try {
             System.out.println("Ingreso en cuenta");
             cuenta1.ingresar(695);
